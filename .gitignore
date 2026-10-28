@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Animaciones generadas
+*.gif
+
+# Editores / sistema
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Enunciado
+TP1_2026.pdf
